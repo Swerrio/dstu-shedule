@@ -1,0 +1,355 @@
+[
+  {
+    "day": "monday",
+    "data": [
+      {
+        "color": "green",
+        "start": "09:15",
+        "end": "10:50",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,
+          2
+        ],
+        "name": "Дискретная математика (теор.)",
+        "teacher": "Бойко Е.Ю.",
+        "image": "boyko",
+        "place": "0"
+      },
+      {
+        "color": "green",
+        "start": "11:00",
+        "end": "12:35",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,
+          2
+        ],
+        "name": "Элементы высшей математики (теор.)",
+        "teacher": "Комарчук Е.В.",
+        "image": "komarchuk",
+        "place": "0"
+      },
+      {
+        "color": "yellow",
+        "start": "13:05",
+        "end": "14:40",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,
+          2
+        ],
+        "name": "Компьютерные сети (теор.)",
+        "teacher": "Роговенко Д.Н.",
+        "image":"rogovenko",
+        "place": "0"
+      }
+    ]
+  },
+  {
+    "day": "tuesday",
+    "data": [
+      {
+        "color": "green",
+        "start": "08:30",
+        "end": "10:05",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          2
+        ],
+        "name": "Компьютерные сети (лаб.)",
+        "teacher": "Роговенко Д.Н.",
+        "image":"rogovenko",
+        "place": "410"
+      },
+      {
+        "color": "yellow",
+        "start": "10:15",
+        "end": "11:50",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Элементы высшей математики (теор.)",
+        "teacher": "Комарчук Е.В.",
+        "image": "komarchuk",
+        "place": "213"
+      },
+      {
+        "color": "green",
+        "start": "12:30",
+        "end": "14:05",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Иностранный язык в профессиональной деятельности",
+        "teacher": "Заиграева Е.Р.",
+        "image":"zaigraeva",
+        "place": "303"
+      }
+    ]
+  },
+  {
+    "day": "wednesday",
+    "data": [
+      
+      {
+        "color": "yellow",
+        "start": "08:30",
+        "end": "10:15",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Физическая культура",
+        "teacher": "Панасюк Ю.Ф.",
+        "image":"panasuk",
+        "place": null
+      },
+      {
+        "color": "yellow",
+        "start": "10:15",
+        "end": "11:50",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Элементы высшей математики (пр.)",
+        "teacher": "Комарчук Е.В.",
+        "image":"komarchuk",
+        "place": "233"
+      },
+      {
+        "color": "green",
+        "start": "12:30",
+        "end": "14:05",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Архитектура аппаратных средств (теор.)",
+        "teacher": "Тышлангов М.В.",
+        "image":"tishlangov",
+        "place": "417"
+      },
+      {
+        "color": "green",
+        "start": "14:15",
+        "end": "15:50",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Компьютерные сети (теор.)",
+        "teacher": "Роговенко Д.Н.",
+        "image":"rogovenko",
+        "place": "412"
+      }
+    ]
+  },
+  {
+    "day": "thursday",
+    "data": [
+      {
+        "color": "green",
+        "start": "08:30",
+        "end": "10:05",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          2
+        ],
+        "name": "Дискретная математика (теор.)",
+        "teacher": "Бойко Е.Ю.",
+        "image":"boyko",
+        "place": "412"
+      },
+      {
+        "color": "green",
+        "start": "08:30",
+        "end": "10:05",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          1
+        ],
+        "name": "Компьютерные сети (теор.)",
+        "teacher": "Роговенко Д.Н.",
+        "image":"rogovenko",
+        "place": "412"
+      },
+      {
+        "color": "green",
+        "start": "10:15",
+        "end": "11:50",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1
+        ],
+        "name": "Информационные технологии (лаб.)",
+        "teacher": "Колосова И.В.",
+        "image":"kolosova",
+        "place": "407"
+      },
+      {
+        "color": "green",
+        "start": "10:15",
+        "end": "11:50",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          1
+        ],
+        "name": "Дискретная математика (пр.)",
+        "teacher": "Бойко Е.Ю.",
+        "image":"boyko",
+        "place": "412"
+      },
+      {
+        "color": "yellow",
+        "start": "12:30",
+        "end": "14:05",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Информационные технологии (теор.)",
+        "teacher": "Колосова И.В.",
+        "image":"kolosova",
+        "place": "402"
+      },
+      {
+        "color": "yellow",
+        "start": "14:15",
+        "end": "15:50",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          1
+        ],
+        "name": "История (пр.)",
+        "teacher": "Щерба Н.Г.",
+        "image":"zherba",
+        "place": "231"
+      }
+    ]
+  },
+  {
+    "day": "friday",
+    "data": [
+      {
+        "color": "green",
+        "start": "08:30",
+        "end": "10:05",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Информационные технологии (лаб.)",
+        "teacher": "Колосова И.В.",
+        "image":"kolosova",
+        "place": "407"
+      },
+      {
+        "color": "green",
+        "start": "10:15",
+        "end": "11:50",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1
+        ],
+        "name": "Архитектура аппаратных средств (лаб.)",
+        "teacher": "Тышлангов М.В.",
+        "image":"tishlangov",
+        "place": "417"
+      },
+      {
+        "color": "yellow",
+        "start": "12:30",
+        "end": "14:05",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1
+        ],
+        "name": "История (теор.)",
+        "teacher": "Щерба Н.Г.",
+        "image":"zherba",
+        "place": "325"
+      }
+    ]
+  },
+  {
+    "day": "saturday",
+    "data": [
+      {
+        "color": "yellow",
+        "start": "10:15",
+        "end": "11:50",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Информационные технологии (теор.)",
+        "teacher": "Колосова И.В.",
+        "image":"kolosova",
+        "place": "412"
+      },
+      {
+        "color": "green",
+        "start": "12:30",
+        "end": "14:05",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Архитектура аппаратных средств (теор.)",
+        "teacher": "Тышлангов М.В.",
+        "image":"tishlangov",
+        "place": "213"
+      }
+    ]
+  },
+  {
+    "day": "sunday",
+    "data": []
+  }
+]

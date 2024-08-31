@@ -250,28 +250,28 @@ main{
   bottom: 0;
 }
 .tooltip element {
-  line-height: 100%;
-  pointer-events: none;
-  transition: 0.4s;
-  padding: 9px 10px 0px 10px;
-  font-size: 18px;
-  display: block;
-  opacity: 0%;
-  top: -28px;
-  visibility: hidden;
-  background: var(--brand-color);
-  position: absolute;
-  z-index: 1000;
-  text-align: center;
-  color: #fff;
-  width: max-content;
-  height: 30px;
-  left: 90%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%);
-  border-radius: 7px;
-  box-shadow: var( --shadows-vanish);
-  z-index: 99;
+    line-height: 100%;
+    pointer-events: none;
+    transition: 0.4s;
+    padding: 9px 10px 0px 10px;
+    font-size: 18px;
+    display: block;
+    opacity: 0%;
+    top: -28px;
+    visibility: hidden;
+    background: var(--brand-color);
+    position: absolute;
+    z-index: 1000;
+    text-align: center;
+    color: #fff;
+    width: max-content;
+    height: 30px;
+    left: 90%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    border-radius: 7px;
+    box-shadow: var( --shadows-vanish);
+    z-index: 99;
 }
 .HOVER {
   font-family: 'Montserrat', sans-serif;

@@ -342,27 +342,27 @@ right: 70%;
 }
 
 .tooltip-left:hover element {
-  z-index: 99;
-  pointer-events: none;
-  transition: 0.2s;
-  display: block;
-  visibility: visible;
-  opacity: 99%;
-  box-shadow: var(--shadows-lite);
+    z-index: 99;
+    pointer-events: none;
+    transition: 0.2s;
+    display: block;
+    visibility: visible;
+    opacity: 99%;
+    box-shadow: var(--shadows-lite);
 }
 
 .tooltip-left element::after {
-  z-index: 100;
-  pointer-events: none;
-  transition: 0.4s;
-  content: '';
-  position: absolute;
-  border: 10px solid transparent;
-  border-top: 12px solid var(--brand-color);
-  left: 99%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%);
-  transform: rotate(-90deg);
-  top: 11px;
+    z-index: 100;
+    pointer-events: none;
+    transition: 0.4s;
+    content: '';
+    position: absolute;
+    border: 10px solid transparent;
+    border-top: 12px solid var(--brand-color);
+    left: 99%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    transform: rotate(-90deg);
+    top: 11px;
 }
 

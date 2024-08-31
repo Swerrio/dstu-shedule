@@ -56,7 +56,6 @@
 /*presets*/
 
 html {
-  
   font-family: 'Montserrat', sans-serif;
   scrollbar-width: thin;
   padding: 0;
@@ -149,7 +148,7 @@ text, h3, h2, h1, a, p, img {
   height: 0rem;
 }
 
-main{
+main {
   width: 52.6316rem;
   margin: 0 auto;
   display: flex;
@@ -158,7 +157,7 @@ main{
   padding-top: 7rem;
   padding-bottom: 7rem;
 }
-.box-content{
+.box-content {
   height: auto;
   width: 100%;
   background-color: var(--gray);
@@ -170,39 +169,39 @@ main{
   position: relative;
 }
 
-.p-name, .p-time{
+.p-name, .p-time {
   padding: 1.6842rem;
   display: flex;
   flex-direction: column;
   text-align: right;
 }
-.p-name{
+.p-name {
   text-align: left;
 }
 
-.p-start{
+.p-start {
   font-size: 2.9474rem;
   font-weight: 400;
 }
 
-.p-end{
+.p-end {
   font-weight: 400;
   font-size: 2.4211rem;
   opacity: 0.7;
 }
 
-.p-name-a{
+.p-name-a {
   font-size: 2.9474rem;
   font-weight: 600;
 }
 
-.p-name-b{
+.p-name-b {
   font-size: 2.4211rem;
   opacity: 0.7;
   font-weight: 400;
 }
 
-.p-idicator{
+.p-idicator {
   display: block;
   min-width: 1.3684rem;
   height: 8rem;
@@ -210,13 +209,13 @@ main{
   border-radius: 2.3158rem;
 }
 
-.text-data{
+.text-data {
   display: flex;
   font-size: 2.4211rem;
   font-weight: 600;
 }
 
-.p-avatar{
+.p-avatar {
   right: 0;
   width: 8rem;
   height: 8rem;
@@ -228,7 +227,7 @@ main{
   margin-top: -4rem;
 }
 
-.block-content{
+.block-content {
   display: flex;
   flex-direction: column;
   gap: 2rem;

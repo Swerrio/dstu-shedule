@@ -210,10 +210,11 @@ main{
   border-radius: 2.3158rem;
 }
 
-.text-data{
+.text-data {
+  line-height: 100px;
   display: flex;
   font-size: 2.4211rem;
-  font-weight: 600;
+  font-weight: 600
 }
 
 .p-avatar{

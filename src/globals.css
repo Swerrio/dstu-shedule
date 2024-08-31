@@ -289,56 +289,56 @@ main{
   transition: 0.1s;
 }
 .tooltip:hover element {
-  z-index: 99;
-  pointer-events: none;
-  transition: 0.2s;
-  display: block;
-  visibility: visible;
-  top: -35px;
-  opacity: 99%;
-  box-shadow: var(--shadows-lite);
+    z-index: 99;
+    pointer-events: none;
+    transition: 0.2s;
+    display: block;
+    visibility: visible;
+    top: -35px;
+    opacity: 99%;
+    box-shadow: var(--shadows-lite);
 }
 
 .tooltip element::after {
-  z-index: 100;
-  opacity: 100%;
-  pointer-events: none;
-  transition: 0.4s;
-  content: '';
-  position: absolute;
-  top: 50px;
-  border: 15px solid transparent;
-  border-top: 12px solid var(--brand-color);
-  left: 90%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%);
+    z-index: 100;
+    opacity: 100%;
+    pointer-events: none;
+    transition: 0.4s;
+    content: '';
+    position: absolute;
+    top: 50px;
+    border: 15px solid transparent;
+    border-top: 12px solid var(--brand-color);
+    left: 90%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
 }
 .tooltip-left {
-  transition: 0.2s;
+    transition: 0.2s;
 }
 
 .tooltip-left element {
-  pointer-events: none;
-  transition: 0.4s;
-  padding: 0.4rem 0.5rem 0.8rem 0.4rem;
-  font-size: 1.42rem;
-  display: block;
-  opacity: 0%;
-  top: 1rem;
-  visibility: hidden;
-  background: var(--brand-color);
-  position: absolute;
-  z-index: 1000;
-  text-align: center;
-  color: #fff;
-  width: max-content;
-  height: 30px;
-  margin-right: -50%;
-  transform: translate(0%, 65%);
-  border-radius: 7px;
-  box-shadow: var( --shadows-vanish);
-  z-index: 99;
-right: 70%;
+    pointer-events: none;
+    transition: 0.4s;
+    padding: 0.4rem 0.5rem 0.8rem 0.4rem;
+    font-size: 1.42rem;
+    display: block;
+    opacity: 0%;
+    top: 1rem;
+    visibility: hidden;
+    background: var(--brand-color);
+    position: absolute;
+    z-index: 1000;
+    text-align: center;
+    color: #fff;
+    width: max-content;
+    height: 30px;
+    margin-right: -50%;
+    transform: translate(0%, 65%);
+    border-radius: 7px;
+    box-shadow: var( --shadows-vanish);
+    z-index: 99;
+	right: 70%;
 }
 
 .tooltip-left:hover element {

@@ -1,0 +1,478 @@
+[
+  {
+    "day": "monday",
+    "data": [
+      {
+        "color": "green",
+        "start": "09:15",
+        "end": "10:50",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1,
+          2
+        ],
+        "name": "Информатика (пр.)",
+        "teacher": "Преподаватель не найден",
+        "image": "platonova",
+        "place": "230"
+      },
+      {
+        "color": "green",
+        "start": "09:15",
+        "end": "10:50",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          1,
+          2
+        ],
+        "name": "Русский язык",
+        "teacher": "Преподаватель не найден",
+        "image": "snegkov",
+        "place": "320"
+      },
+      {
+        "color": "green",
+        "start": "11:00",
+        "end": "12:35",
+        "week": [
+          1,
+          2
+        ],
+        "subgroup": [
+          1,
+          2
+        ],
+        "name": "География (теор.)",
+        "teacher": "Преподаватель не найден",
+        "image": "shiyan",
+        "place": " 213"
+      },
+      {
+        "color": "yellow",
+        "start": "13:05",
+        "end": "14:40",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1,
+          2
+        ],
+        "name": "Физика (теор.)",
+        "teacher": "Преподаватель не найден",
+        "image":"propolski",
+        "place": "402"
+      },
+      {
+        "color": "yellow",
+        "start": "13:05",
+        "end": "14:40",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          1,
+          2
+        ],
+        "name": "Химия (теор.)",
+        "teacher": "Преподаватель не найден",
+        "image":"volnisitiy",
+        "place": "416"
+      },
+      {
+        "color": "green",
+        "start": "14:50",
+        "end": "16:25",
+        "week": [
+          1,
+          2
+        ],
+        "subgroup": [
+          1,
+          2
+        ],
+        "name": "Основы безопасности и жизнедеятельности",
+        "teacher": "Преподаватель не найден",
+        "image":"propolski",
+        "place": "406"
+      }
+    ]
+  },
+  {
+    "day": "tuesday",
+    "data": [
+      {
+        "color": "yellow",
+        "start": "10:15",
+        "end": "11:50",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Физика (лаб.)",
+        "teacher": "Преподаватель не найден",
+        "place": "418"
+      },
+      {
+        "color": "green",
+        "start": "12:30",
+        "end": "14:05",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Русский язык",
+        "teacher": "Преподаватель не найден",
+        "image":"sosnovkaya",
+        "place": "320"
+      },
+      {
+        "color": "green",
+        "start": "14:15",
+        "end": "15:50",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "История (теор.)",
+        "teacher": "Преподаватель не найден",
+        "image":"shipica",
+        "place": "325"
+      }
+    ]
+  },
+  {
+    "day": "wednesday",
+    "data": [
+      
+      {
+        "color": "yellow",
+        "start": "08:30",
+        "end": "10:15",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "География (пр.)",
+        "teacher": "Преподаватель не найден",
+        "image":"rizkov",
+        "place": "231"
+      },
+      {
+        "color": "yellow",
+        "start": "08:30",
+        "end": "10:15",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Математика (пр.)",
+        "teacher": "Преподаватель не найден",
+        "image":"rizkov",
+        "place": "233"
+      },
+      {
+        "color": "yellow",
+        "start": "10:15",
+        "end": "11:50",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Математика (пр.)",
+        "teacher": "Преподаватель не найден",
+        "image":"rizkov",
+        "place": "233"
+      },
+      {
+        "color": "green",
+        "start": "12:30",
+        "end": "14:05",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Обществознание",
+        "teacher": "Преподаватель не найден",
+        "image":"rizkov",
+        "place": "326"
+      },
+      {
+        "color": "green",
+        "start": "14:15",
+        "end": "15:50",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Иностранный язык",
+        "teacher": "Преподаватель не найден",
+        "image":"rizkov",
+        "place": "303"
+      }
+    ]
+  },
+  {
+    "day": "thursday",
+    "data": [
+      {
+        "color": "green",
+        "start": "08:30",
+        "end": "10:05",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          2
+        ],
+        "name": "Физ-ра",
+        "teacher": "Преподаватель не найден",
+        "image":"hvitko-kristina",
+        "place": null
+      },
+      {
+        "color": "green",
+        "start": "10:15",
+        "end": "11:50",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          2
+        ],
+        "name": "Иностранный язык",
+        "teacher": "Преподаватель не найден",
+        "image":"hvitko-kristina",
+        "place": "303"
+      },
+      {
+        "color": "yellow",
+        "start": "12:30",
+        "end": "14:05",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "История (пр.)",
+        "teacher": "Преподаватель не найден",
+        "image":"hvitko-kristina",
+        "place": "231"
+      },
+      {
+        "color": "yellow",
+        "start": "12:30",
+        "end": "14:05",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Информатика (теор.)",
+        "teacher": "Преподаватель не найден",
+        "image":"hvitko-kristina",
+        "place": "322"
+      },
+      {
+        "color": "yellow",
+        "start": "14:15",
+        "end": "15:50",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1
+        ],
+        "name": "Физика (пр.)",
+        "teacher": "Преподаватель не найден",
+        "image":"Zajceva-Nadezhda-Viktorovna",
+        "place": "418"
+      }
+    ]
+  },
+  {
+    "day": "friday",
+    "data": [
+      {
+        "color": "green",
+        "start": "08:30",
+        "end": "10:05",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1
+        ],
+        "name": "Физ-ра",
+        "teacher": "Преподаватель не найден",
+        "place": null
+      },
+      {
+        "color": "green",
+        "start": "10:15",
+        "end": "11:50",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1
+        ],
+        "name": "Биология (теор.)",
+        "teacher": "Преподаватель не найден",
+        "image":"nguen-thi-thu-ngan",
+        "place": "406"
+      },
+      {
+        "color": "yellow",
+        "start": "12:30",
+        "end": "14:05",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1
+        ],
+        "name": "Информатика (пр.)",
+        "teacher": "Преподаватель не найден",
+        "image":"verbitskaya",
+        "place": "214"
+      },
+      {
+        "color": "yellow",
+        "start": "12:30",
+        "end": "14:05",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          2
+        ],
+        "name": "Биология (пр.)",
+        "teacher": "Преподаватель не найден",
+        "image":"verbitskaya",
+        "place": "406"
+      },
+      {
+        "color": "green",
+        "start": "14:15",
+        "end": "15:50",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          2
+        ],
+        "name": "Информатика (пр.)",
+        "teacher": "Преподаватель не найден",
+        "image": "verbitskaya",
+        "place": "214"
+      }
+    ]
+  },
+  {
+    "day": "saturday",
+    "data": [
+      {
+        "color": "yellow",
+        "start": "08:30",
+        "end": "10:05",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          2
+        ],
+        "name": "Математика (теор.)",
+        "teacher": "Преподаватель не найден",
+        "image":"platonova-raisa",
+        "place": "235"
+      },
+      {
+        "color": "yellow",
+        "start": "10:15",
+        "end": "11:50",
+        "week": [
+          1
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Математика (теор.)",
+        "teacher": "Преподаватель не найден",
+        "image":"verbitskaya",
+        "place": "235"
+      },
+      {
+        "color": "green",
+        "start": "10:15",
+        "end": "11:50",
+        "week": [
+          2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Литература (теор.)",
+        "teacher": "Преподаватель не найден",
+        "image":"verbitskaya",
+        "place": "213"
+      },
+      {
+        "color": "green",
+        "start": "12:30",
+        "end": "14:05",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Литература (пр.)",
+        "teacher": "Преподаватель не найден",
+        "image":"verbitskaya",
+        "place": "213"
+      },
+      {
+        "color": "yellow",
+        "start": "14:15",
+        "end": "15:50",
+        "week": [
+          1,2
+        ],
+        "subgroup": [
+          1,2
+        ],
+        "name": "Математика (пр.)",
+        "teacher": "Преподаватель не найден",
+        "image":"verbitskaya",
+        "place": "235"
+      }
+    ]
+  },
+  {
+    "day": "sunday",
+    "data": []
+  }
+]

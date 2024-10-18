@@ -3,7 +3,7 @@
     "day": "monday",
     "data": [
       {
-        "color": "green",
+        "color": "yellow",
         "start": "09:15",
         "end": "10:50",
         "week": [
@@ -19,7 +19,7 @@
         "place": "326"
       },
       {
-        "color": "green",
+        "color": "yellow",
         "start": "11:00",
         "end": "12:35",
         "week": [
@@ -35,7 +35,7 @@
         "place": "213"
       },
       {
-        "color": "yellow",
+        "color": "green",
         "start": "13:05",
         "end": "14:40",
         "week": [
@@ -123,7 +123,7 @@
     "data": [
       
       {
-        "color": "yellow",
+        "color": "green",
         "start": "08:30",
         "end": "10:05",
         "week": [
@@ -153,7 +153,7 @@
         "place": "233"
       },
       {
-        "color": "green",
+        "color": "yellow",
         "start": "12:30",
         "end": "14:05",
         "week": [
@@ -188,7 +188,7 @@
     "day": "thursday",
     "data": [
       {
-        "color": "green",
+        "color": "yellow",
         "start": "08:30",
         "end": "10:05",
         "week": [
@@ -233,7 +233,7 @@
         "place": "407"
       },
       {
-        "color": "green",
+        "color": "yellow",
         "start": "10:15",
         "end": "11:50",
         "week": [
@@ -248,7 +248,7 @@
         "place": "412"
       },
       {
-        "color": "yellow",
+        "color": "green",
         "start": "12:30",
         "end": "14:05",
         "week": [
@@ -298,7 +298,7 @@
         "place": "417"
       },
       {
-        "color": "yellow",
+        "color": "green",
         "start": "12:30",
         "end": "14:05",
         "week": [
@@ -318,7 +318,7 @@
     "day": "saturday",
     "data": [
       {
-        "color": "yellow",
+        "color": "green",
         "start": "10:15",
         "end": "11:50",
         "week": [
@@ -333,7 +333,7 @@
         "place": "412"
       },
       {
-        "color": "green",
+        "color": "yellow",
         "start": "12:30",
         "end": "14:05",
         "week": [

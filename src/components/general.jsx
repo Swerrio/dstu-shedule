@@ -67,7 +67,7 @@ const General = () => {
                                 </div>
                                 <div className="tooltip-left">
                                     <element width="150px;">{data.teacher}</element>
-                                    <button className="HOVER p-avatar" style={{ backgroundImage: `url('https://swerrio.ru/teachers/${data.image}.png')` }}>
+                                    <button className="HOVER p-avatar" style={{ backgroundImage: `url('https://swerrio.xyz/teachers/${data.image}.png')` }}>
                                         <span style={{ left: '84.5px', top: '42px' }}></span>
                                     </button>
                                 </div>
